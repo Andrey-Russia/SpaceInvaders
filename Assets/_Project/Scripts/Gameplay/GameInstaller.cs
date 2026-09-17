@@ -1,6 +1,7 @@
 using SpaceInvaders.Gameplay.Configuration;
 using SpaceInvaders.Gameplay.Input;
 using SpaceInvaders.Gameplay.Player;
+using SpaceInvaders.Gameplay.Projectiles;
 using UnityEngine;
 
 namespace SpaceInvaders.Gameplay
@@ -14,6 +15,8 @@ namespace SpaceInvaders.Gameplay
         [SerializeField] private PlayerController _player;
 
         [SerializeField] private MobilePlayerInput _mobileInput;
+        [SerializeField] private PlayerShooter _playerShooter;
+        [SerializeField] private PlayerProjectilePool _playerProjectilePool;
 
         private void Awake()
         {
@@ -38,7 +41,24 @@ namespace SpaceInvaders.Gameplay
                 return;
             }
 
+            if (_playerShooter == null)
+            {
+                Debug.LogError("PlayerShooter is not assigned.", this);
+                enabled = false;
+                return;
+            }
+
+            if (_playerProjectilePool == null)
+            {
+                Debug.LogError("PlayerProjectilePool is not assigned.", this);
+                enabled = false;
+                return;
+            }
+
             IPlayerInput input = new CompositePlayerInput(new KeyboardPlayerInput(), _mobileInput);
+            _player.Initialize(_config, input);
+
+            _playerShooter.Initialize(_config, input, _playerProjectilePool);
             _player.Initialize(_config, input);
         }
     }
