@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using SpaceInvaders.Gameplay.Combat;
 
 namespace SpaceInvaders.Gameplay.Projectiles
 {
@@ -55,6 +56,19 @@ namespace SpaceInvaders.Gameplay.Projectiles
 
             _isLaunched = false;
             _releaseAction?.Invoke(this);
+        }
+
+        private void OnTriggerEnter2D(Collider2D other)
+        {
+            IDamageable damageable = other.GetComponent<IDamageable>();
+
+            if (damageable == null)
+            {
+                return;
+            }
+
+            damageable.TakeDamage(1);
+            Release();
         }
     }
 }
