@@ -13,6 +13,8 @@ namespace SpaceInvaders.Gameplay
         [Header("Scene objects")]
         [SerializeField] private PlayerController _player;
 
+        [SerializeField] private MobilePlayerInput _mobileInput;
+
         private void Awake()
         {
             if (_config == null)
@@ -29,7 +31,14 @@ namespace SpaceInvaders.Gameplay
                 return;
             }
 
-            IPlayerInput input = new KeyboardPlayerInput();
+            if (_mobileInput == null)
+            {
+                Debug.LogError("MobilePlayerInput is not assigned.", this);
+                enabled = false;
+                return;
+            }
+
+            IPlayerInput input = new CompositePlayerInput(new KeyboardPlayerInput(), _mobileInput);
             _player.Initialize(_config, input);
         }
     }
