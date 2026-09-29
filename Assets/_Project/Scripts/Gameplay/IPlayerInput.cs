@@ -5,5 +5,6 @@ namespace SpaceInvaders.Gameplay.Input
         float Movement { get; }
         bool FireHeld { get; }
         bool RestartPressed { get; }
+        bool PausePressed { get; }
     }
 }

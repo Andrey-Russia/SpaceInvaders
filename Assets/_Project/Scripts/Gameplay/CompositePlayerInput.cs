@@ -57,5 +57,21 @@ namespace SpaceInvaders.Gameplay.Input
                 return false;
             }
         }
+
+        public bool PausePressed
+        {
+            get
+            {
+                foreach (IPlayerInput input in _inputs)
+                {
+                    if (input.PausePressed)
+                    {
+                        return true;
+                    }
+                }
+
+                return false;
+            }
+        }
     }
 }

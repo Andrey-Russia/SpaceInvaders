@@ -26,5 +26,7 @@ namespace SpaceInvaders.Gameplay.Input
         public bool FireHeld => Keyboard.current != null && Keyboard.current.spaceKey.isPressed;
 
         public bool RestartPressed => Keyboard.current != null && Keyboard.current.rKey.wasPressedThisFrame;
+
+        public bool PausePressed => Keyboard.current != null && Keyboard.current.escapeKey.wasPressedThisFrame;
     }
 }

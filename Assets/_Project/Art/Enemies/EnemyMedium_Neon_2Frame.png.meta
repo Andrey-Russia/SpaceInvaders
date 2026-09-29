@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: b993ca763a3184f4e953e8c1d4effd5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 86437690474932539
+    second: EnemyMedium_Neon_2Frame_0
+  - first:
+      213: 4440150049195327882
+    second: EnemyMedium_Neon_2Frame_1
+  - first:
+      213: 3731924879618349241
+    second: EnemyMedium_Neon_2Frame_2
+  - first:
+      213: -6841208482677532073
+    second: EnemyMedium_Neon_2Frame_3
+  - first:
+      213: 4225319770734714964
+    second: EnemyMedium_Neon_2Frame_4
+  - first:
+      213: -3943244396332718580
+    second: EnemyMedium_Neon_2Frame_5
+  - first:
+      213: 1057505165622852923
+    second: EnemyMedium_Neon_2Frame_6
+  - first:
+      213: 2261004688076555660
+    second: EnemyMedium_Neon_2Frame_7
+  - first:
+      213: -4083641364542380735
+    second: EnemyMedium_Neon_2Frame_8
+  - first:
+      213: 7240380169394127022
+    second: EnemyMedium_Neon_2Frame_9
+  - first:
+      213: 1624110408485781867
+    second: EnemyMedium_Neon_2Frame_10
+  - first:
+      213: 2275804391318799742
+    second: EnemyMedium_Neon_2Frame_11
+  - first:
+      213: 8535525155341670620
+    second: EnemyMedium_Neon_2Frame_12
+  - first:
+      213: 7618036812696898294
+    second: EnemyMedium_Neon_2Frame_13
+  - first:
+      213: 2742262770571338793
+    second: EnemyMedium_Neon_2Frame_14
+  - first:
+      213: 8217841229275811176
+    second: EnemyMedium_Neon_2Frame_15
+  - first:
+      213: -2400299011233918220
+    second: EnemyMedium_Neon_2Frame_16
+  - first:
+      213: -5544980965583105348
+    second: EnemyMedium_Neon_2Frame_17
+  - first:
+      213: 247520282104917929
+    second: EnemyMedium_Neon_2Frame_18
+  - first:
+      213: 7063043839756663658
+    second: EnemyMedium_Neon_2Frame_19
+  - first:
+      213: -5643369429804033786
+    second: EnemyMedium_Neon_2Frame_20
+  - first:
+      213: -3125153782977544259
+    second: EnemyMedium_Neon_2Frame_21
+  - first:
+      213: 7356881199865270358
+    second: EnemyMedium_Neon_2Frame_22
+  - first:
+      213: -5791807586711725257
+    second: EnemyMedium_Neon_2Frame_23
+  - first:
+      213: 1711072721887105362
+    second: EnemyMedium_Neon_2Frame_24
+  - first:
+      213: -8627868674052818156
+    second: EnemyMedium_Neon_2Frame_25
+  - first:
+      213: 5000251743130812544
+    second: EnemyMedium_Neon_2Frame_26
+  - first:
+      213: 2954337570628930375
+    second: EnemyMedium_Neon_2Frame_27
+  - first:
+      213: -6987818714375187974
+    second: EnemyMedium_Neon_2Frame_28
+  - first:
+      213: 2490608198274382029
+    second: EnemyMedium_Neon_2Frame_29
+  - first:
+      213: 3851409300874572147
+    second: EnemyMedium_Neon_2Frame_30
+  - first:
+      213: 7992862321104575112
+    second: EnemyMedium_Neon_2Frame_31
+  - first:
+      213: -5635886129052442615
+    second: EnemyMedium_Neon_2Frame_32
+  - first:
+      213: -4766192028004804231
+    second: EnemyMedium_Neon_2Frame_33
+  - first:
+      213: 4300655019552673238
+    second: EnemyMedium_Neon_2Frame_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyMedium_Neon_2Frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 854
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a6fb1f96133100800000000000000
+      internalID: 86437690474932539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMedium_Neon_2Frame_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 921
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75add9b91252f01a0800000000000000
+      internalID: -6841208482677532073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11509a89b74603a42be5426f485bb352
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemyMedium_Neon_2Frame_0: 86437690474932539
+      EnemyMedium_Neon_2Frame_1: 4440150049195327882
+      EnemyMedium_Neon_2Frame_10: 1624110408485781867
+      EnemyMedium_Neon_2Frame_11: 2275804391318799742
+      EnemyMedium_Neon_2Frame_12: 8535525155341670620
+      EnemyMedium_Neon_2Frame_13: 7618036812696898294
+      EnemyMedium_Neon_2Frame_14: 2742262770571338793
+      EnemyMedium_Neon_2Frame_15: 8217841229275811176
+      EnemyMedium_Neon_2Frame_16: -2400299011233918220
+      EnemyMedium_Neon_2Frame_17: -5544980965583105348
+      EnemyMedium_Neon_2Frame_18: 247520282104917929
+      EnemyMedium_Neon_2Frame_19: 7063043839756663658
+      EnemyMedium_Neon_2Frame_2: 3731924879618349241
+      EnemyMedium_Neon_2Frame_20: -5643369429804033786
+      EnemyMedium_Neon_2Frame_21: -3125153782977544259
+      EnemyMedium_Neon_2Frame_22: 7356881199865270358
+      EnemyMedium_Neon_2Frame_23: -5791807586711725257
+      EnemyMedium_Neon_2Frame_24: 1711072721887105362
+      EnemyMedium_Neon_2Frame_25: -8627868674052818156
+      EnemyMedium_Neon_2Frame_26: 5000251743130812544
+      EnemyMedium_Neon_2Frame_27: 2954337570628930375
+      EnemyMedium_Neon_2Frame_28: -6987818714375187974
+      EnemyMedium_Neon_2Frame_29: 2490608198274382029
+      EnemyMedium_Neon_2Frame_3: -6841208482677532073
+      EnemyMedium_Neon_2Frame_30: 3851409300874572147
+      EnemyMedium_Neon_2Frame_31: 7992862321104575112
+      EnemyMedium_Neon_2Frame_32: -5635886129052442615
+      EnemyMedium_Neon_2Frame_33: -4766192028004804231
+      EnemyMedium_Neon_2Frame_34: 4300655019552673238
+      EnemyMedium_Neon_2Frame_4: 4225319770734714964
+      EnemyMedium_Neon_2Frame_5: -3943244396332718580
+      EnemyMedium_Neon_2Frame_6: 1057505165622852923
+      EnemyMedium_Neon_2Frame_7: 2261004688076555660
+      EnemyMedium_Neon_2Frame_8: -4083641364542380735
+      EnemyMedium_Neon_2Frame_9: 7240380169394127022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

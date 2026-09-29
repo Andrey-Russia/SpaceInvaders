@@ -14,6 +14,8 @@ namespace SpaceInvaders.Gameplay.Input
 
         public bool RestartPressed => false;
 
+        public bool PausePressed => false;
+
         public void SetLeftPressed(bool isPressed)
         {
             _movesLeft = isPressed;

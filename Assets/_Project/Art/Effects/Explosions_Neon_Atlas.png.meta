@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 28d597217d406f44c8367d087a99faef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6529838629170944918
+    second: Explosions_Neon_Atlas_0
+  - first:
+      213: -5908295057139041907
+    second: Explosions_Neon_Atlas_1
+  - first:
+      213: -5861802610891652051
+    second: Explosions_Neon_Atlas_2
+  - first:
+      213: -3085767746496001789
+    second: Explosions_Neon_Atlas_3
+  - first:
+      213: 719073190731845051
+    second: Explosions_Neon_Atlas_4
+  - first:
+      213: 6748140593941182117
+    second: Explosions_Neon_Atlas_5
+  - first:
+      213: -2471359663626139266
+    second: Explosions_Neon_Atlas_6
+  - first:
+      213: 3281574632517596497
+    second: Explosions_Neon_Atlas_7
+  - first:
+      213: 8705827522342153196
+    second: Explosions_Neon_Atlas_8
+  - first:
+      213: 1750431272633313906
+    second: Explosions_Neon_Atlas_9
+  - first:
+      213: 8196312178644562925
+    second: Explosions_Neon_Atlas_10
+  - first:
+      213: 343697430688426357
+    second: Explosions_Neon_Atlas_11
+  - first:
+      213: 7683001993349095458
+    second: Explosions_Neon_Atlas_12
+  - first:
+      213: 4551984016900632635
+    second: Explosions_Neon_Atlas_13
+  - first:
+      213: 8277631239844781073
+    second: Explosions_Neon_Atlas_14
+  - first:
+      213: -378595348332745921
+    second: Explosions_Neon_Atlas_15
+  - first:
+      213: 3736364416494744994
+    second: Explosions_Neon_Atlas_16
+  - first:
+      213: -4344180210234103859
+    second: Explosions_Neon_Atlas_17
+  - first:
+      213: -5502724083343893499
+    second: Explosions_Neon_Atlas_18
+  - first:
+      213: 7329407963501855095
+    second: Explosions_Neon_Atlas_19
+  - first:
+      213: 618918883713901124
+    second: Explosions_Neon_Atlas_20
+  - first:
+      213: -7656791374164448607
+    second: Explosions_Neon_Atlas_21
+  - first:
+      213: 7152168957210998779
+    second: Explosions_Neon_Atlas_22
+  - first:
+      213: -6154466701041232675
+    second: Explosions_Neon_Atlas_23
+  - first:
+      213: -2728773855503171394
+    second: Explosions_Neon_Atlas_24
+  - first:
+      213: -3145839945779812334
+    second: Explosions_Neon_Atlas_25
+  - first:
+      213: 2992187171726546810
+    second: Explosions_Neon_Atlas_26
+  - first:
+      213: -8534622461524539787
+    second: Explosions_Neon_Atlas_27
+  - first:
+      213: 8702276726711683642
+    second: Explosions_Neon_Atlas_28
+  - first:
+      213: 6845279130839189712
+    second: Explosions_Neon_Atlas_29
+  - first:
+      213: 3104815704073323818
+    second: Explosions_Neon_Atlas_30
+  - first:
+      213: -3901055429567498377
+    second: Explosions_Neon_Atlas_31
+  - first:
+      213: -6132980535796718582
+    second: Explosions_Neon_Atlas_32
+  - first:
+      213: 7249185912087383255
+    second: Explosions_Neon_Atlas_33
+  - first:
+      213: -8297333412625819719
+    second: Explosions_Neon_Atlas_34
+  - first:
+      213: 1244977875633894378
+    second: Explosions_Neon_Atlas_35
+  - first:
+      213: -5633969719978071741
+    second: Explosions_Neon_Atlas_36
+  - first:
+      213: -2935436423301343344
+    second: Explosions_Neon_Atlas_37
+  - first:
+      213: -1723491839864951715
+    second: Explosions_Neon_Atlas_38
+  - first:
+      213: -5779725596721251539
+    second: Explosions_Neon_Atlas_39
+  - first:
+      213: -7100306571109796122
+    second: Explosions_Neon_Atlas_40
+  - first:
+      213: -2221941168612198228
+    second: Explosions_Neon_Atlas_41
+  - first:
+      213: -5791814370170898192
+    second: Explosions_Neon_Atlas_42
+  - first:
+      213: 305001476099936288
+    second: Explosions_Neon_Atlas_43
+  - first:
+      213: -7303444943001487662
+    second: Explosions_Neon_Atlas_44
+  - first:
+      213: -4609976871537119128
+    second: Explosions_Neon_Atlas_45
+  - first:
+      213: -6263086841218925143
+    second: Explosions_Neon_Atlas_46
+  - first:
+      213: 5414105882406127151
+    second: Explosions_Neon_Atlas_47
+  - first:
+      213: -3320786994399385330
+    second: Explosions_Neon_Atlas_48
+  - first:
+      213: -5124924766751035079
+    second: Explosions_Neon_Atlas_49
+  - first:
+      213: -9040842710550382039
+    second: Explosions_Neon_Atlas_50
+  - first:
+      213: -913701420526760370
+    second: Explosions_Neon_Atlas_51
+  - first:
+      213: 307590239851021198
+    second: Explosions_Neon_Atlas_52
+  - first:
+      213: 2926352323987671305
+    second: Explosions_Neon_Atlas_53
+  - first:
+      213: -6473337939538024385
+    second: Explosions_Neon_Atlas_54
+  - first:
+      213: -5451974191365746890
+    second: Explosions_Neon_Atlas_55
+  - first:
+      213: 510311806480588483
+    second: Explosions_Neon_Atlas_56
+  - first:
+      213: 458345587354717115
+    second: Explosions_Neon_Atlas_57
+  - first:
+      213: -9051628672625216978
+    second: Explosions_Neon_Atlas_58
+  - first:
+      213: -4417343004659696212
+    second: Explosions_Neon_Atlas_59
+  - first:
+      213: -4258099983944691512
+    second: Explosions_Neon_Atlas_60
+  - first:
+      213: -8063673603039522600
+    second: Explosions_Neon_Atlas_61
+  - first:
+      213: -5258038530427641204
+    second: Explosions_Neon_Atlas_62
+  - first:
+      213: -3470899416497928438
+    second: Explosions_Neon_Atlas_63
+  - first:
+      213: -7627351615770098467
+    second: Explosions_Neon_Atlas_64
+  - first:
+      213: -1823840214919739278
+    second: Explosions_Neon_Atlas_65
+  - first:
+      213: -2367326287635346344
+    second: Explosions_Neon_Atlas_66
+  - first:
+      213: 6088501458515804160
+    second: Explosions_Neon_Atlas_67
+  - first:
+      213: 2595375020466693648
+    second: Explosions_Neon_Atlas_68
+  - first:
+      213: 4165542387145418283
+    second: Explosions_Neon_Atlas_69
+  - first:
+      213: -2546894514483001208
+    second: Explosions_Neon_Atlas_70
+  - first:
+      213: -1008733155011179830
+    second: Explosions_Neon_Atlas_71
+  - first:
+      213: -1146947409790472460
+    second: Explosions_Neon_Atlas_72
+  - first:
+      213: 8732976244118342667
+    second: Explosions_Neon_Atlas_73
+  - first:
+      213: 8079372996988139308
+    second: Explosions_Neon_Atlas_74
+  - first:
+      213: -2723389718303655793
+    second: Explosions_Neon_Atlas_75
+  - first:
+      213: 40737377265107959
+    second: Explosions_Neon_Atlas_76
+  - first:
+      213: -2064351261274258313
+    second: Explosions_Neon_Atlas_77
+  - first:
+      213: 6814932711939585229
+    second: Explosions_Neon_Atlas_78
+  - first:
+      213: -5872070130498305061
+    second: Explosions_Neon_Atlas_79
+  - first:
+      213: 4256648404957679624
+    second: Explosions_Neon_Atlas_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 257
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6464a30d5a5165a0800000000000000
+      internalID: -6529838629170944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 421
+        width: 257
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f703f2f4810ea0800000000000000
+      internalID: -5908295057139041907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 378
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2488522591b6aea0800000000000000
+      internalID: -5861802610891652051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 397
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098fba65962d25d0800000000000000
+      internalID: -3085767746496001789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 370
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0415d149aaf900800000000000000
+      internalID: 719073190731845051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 0
+        width: 395
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f144fd1636ad50800000000000000
+      internalID: 6748140593941182117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 452
+        width: 348
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c551da77f3bdd0800000000000000
+      internalID: -2471359663626139266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 451
+        width: 360
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f423edbe7a8d20800000000000000
+      internalID: 3281574632517596497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 425
+        width: 400
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe501910051d870800000000000000
+      internalID: 8705827522342153196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosions_Neon_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 430
+        width: 326
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a2b01e7f7ca4810800000000000000
+      internalID: 1750431272633313906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ce9bbb0969825446b85c908667444af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosions_Neon_Atlas_0: -6529838629170944918
+      Explosions_Neon_Atlas_1: -5908295057139041907
+      Explosions_Neon_Atlas_10: 8196312178644562925
+      Explosions_Neon_Atlas_11: 343697430688426357
+      Explosions_Neon_Atlas_12: 7683001993349095458
+      Explosions_Neon_Atlas_13: 4551984016900632635
+      Explosions_Neon_Atlas_14: 8277631239844781073
+      Explosions_Neon_Atlas_15: -378595348332745921
+      Explosions_Neon_Atlas_16: 3736364416494744994
+      Explosions_Neon_Atlas_17: -4344180210234103859
+      Explosions_Neon_Atlas_18: -5502724083343893499
+      Explosions_Neon_Atlas_19: 7329407963501855095
+      Explosions_Neon_Atlas_2: -5861802610891652051
+      Explosions_Neon_Atlas_20: 618918883713901124
+      Explosions_Neon_Atlas_21: -7656791374164448607
+      Explosions_Neon_Atlas_22: 7152168957210998779
+      Explosions_Neon_Atlas_23: -6154466701041232675
+      Explosions_Neon_Atlas_24: -2728773855503171394
+      Explosions_Neon_Atlas_25: -3145839945779812334
+      Explosions_Neon_Atlas_26: 2992187171726546810
+      Explosions_Neon_Atlas_27: -8534622461524539787
+      Explosions_Neon_Atlas_28: 8702276726711683642
+      Explosions_Neon_Atlas_29: 6845279130839189712
+      Explosions_Neon_Atlas_3: -3085767746496001789
+      Explosions_Neon_Atlas_30: 3104815704073323818
+      Explosions_Neon_Atlas_31: -3901055429567498377
+      Explosions_Neon_Atlas_32: -6132980535796718582
+      Explosions_Neon_Atlas_33: 7249185912087383255
+      Explosions_Neon_Atlas_34: -8297333412625819719
+      Explosions_Neon_Atlas_35: 1244977875633894378
+      Explosions_Neon_Atlas_36: -5633969719978071741
+      Explosions_Neon_Atlas_37: -2935436423301343344
+      Explosions_Neon_Atlas_38: -1723491839864951715
+      Explosions_Neon_Atlas_39: -5779725596721251539
+      Explosions_Neon_Atlas_4: 719073190731845051
+      Explosions_Neon_Atlas_40: -7100306571109796122
+      Explosions_Neon_Atlas_41: -2221941168612198228
+      Explosions_Neon_Atlas_42: -5791814370170898192
+      Explosions_Neon_Atlas_43: 305001476099936288
+      Explosions_Neon_Atlas_44: -7303444943001487662
+      Explosions_Neon_Atlas_45: -4609976871537119128
+      Explosions_Neon_Atlas_46: -6263086841218925143
+      Explosions_Neon_Atlas_47: 5414105882406127151
+      Explosions_Neon_Atlas_48: -3320786994399385330
+      Explosions_Neon_Atlas_49: -5124924766751035079
+      Explosions_Neon_Atlas_5: 6748140593941182117
+      Explosions_Neon_Atlas_50: -9040842710550382039
+      Explosions_Neon_Atlas_51: -913701420526760370
+      Explosions_Neon_Atlas_52: 307590239851021198
+      Explosions_Neon_Atlas_53: 2926352323987671305
+      Explosions_Neon_Atlas_54: -6473337939538024385
+      Explosions_Neon_Atlas_55: -5451974191365746890
+      Explosions_Neon_Atlas_56: 510311806480588483
+      Explosions_Neon_Atlas_57: 458345587354717115
+      Explosions_Neon_Atlas_58: -9051628672625216978
+      Explosions_Neon_Atlas_59: -4417343004659696212
+      Explosions_Neon_Atlas_6: -2471359663626139266
+      Explosions_Neon_Atlas_60: -4258099983944691512
+      Explosions_Neon_Atlas_61: -8063673603039522600
+      Explosions_Neon_Atlas_62: -5258038530427641204
+      Explosions_Neon_Atlas_63: -3470899416497928438
+      Explosions_Neon_Atlas_64: -7627351615770098467
+      Explosions_Neon_Atlas_65: -1823840214919739278
+      Explosions_Neon_Atlas_66: -2367326287635346344
+      Explosions_Neon_Atlas_67: 6088501458515804160
+      Explosions_Neon_Atlas_68: 2595375020466693648
+      Explosions_Neon_Atlas_69: 4165542387145418283
+      Explosions_Neon_Atlas_7: 3281574632517596497
+      Explosions_Neon_Atlas_70: -2546894514483001208
+      Explosions_Neon_Atlas_71: -1008733155011179830
+      Explosions_Neon_Atlas_72: -1146947409790472460
+      Explosions_Neon_Atlas_73: 8732976244118342667
+      Explosions_Neon_Atlas_74: 8079372996988139308
+      Explosions_Neon_Atlas_75: -2723389718303655793
+      Explosions_Neon_Atlas_76: 40737377265107959
+      Explosions_Neon_Atlas_77: -2064351261274258313
+      Explosions_Neon_Atlas_78: 6814932711939585229
+      Explosions_Neon_Atlas_79: -5872070130498305061
+      Explosions_Neon_Atlas_8: 8705827522342153196
+      Explosions_Neon_Atlas_80: 4256648404957679624
+      Explosions_Neon_Atlas_9: 1750431272633313906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: d0f92386d3b9c6b4f9d6bce20764d32e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3811175490656511924
+    second: UI_IconsAtlas_0
+  - first:
+      213: 338591016219710090
+    second: UI_IconsAtlas_1
+  - first:
+      213: 7126884551594223619
+    second: UI_IconsAtlas_2
+  - first:
+      213: 1433318246892214887
+    second: UI_IconsAtlas_3
+  - first:
+      213: -125957803867022076
+    second: UI_IconsAtlas_4
+  - first:
+      213: 6372401637243505231
+    second: UI_IconsAtlas_5
+  - first:
+      213: -8846967661838664350
+    second: UI_IconsAtlas_6
+  - first:
+      213: 512793641919193326
+    second: UI_IconsAtlas_7
+  - first:
+      213: 7047028129357695985
+    second: UI_IconsAtlas_8
+  - first:
+      213: -4997775254605106388
+    second: UI_IconsAtlas_9
+  - first:
+      213: 7170377718551881403
+    second: UI_IconsAtlas_10
+  - first:
+      213: 6405469980236730674
+    second: UI_IconsAtlas_11
+  - first:
+      213: -3494760242291279463
+    second: UI_IconsAtlas_12
+  - first:
+      213: -5433482734391932607
+    second: UI_IconsAtlas_13
+  - first:
+      213: -8692238367322214845
+    second: UI_IconsAtlas_14
+  - first:
+      213: -2058742478275671140
+    second: UI_IconsAtlas_15
+  - first:
+      213: 6516971624383049855
+    second: UI_IconsAtlas_16
+  - first:
+      213: 1935900304781614017
+    second: UI_IconsAtlas_17
+  - first:
+      213: 7019060123790087797
+    second: UI_IconsAtlas_18
+  - first:
+      213: 3262476187004152804
+    second: UI_IconsAtlas_19
+  - first:
+      213: 5466547312767832445
+    second: UI_IconsAtlas_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_IconsAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 700
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a821aed3cbae2b400800000000000000
+      internalID: 338591016219710090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 700
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3082ef46db7c7e260800000000000000
+      internalID: 7126884551594223619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 700
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d51d37b02804ef0800000000000000
+      internalID: -125957803867022076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 697
+        width: 315
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfcb8e8c1493580800000000000000
+      internalID: -8846967661838664350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 355
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0d843fb21cc160800000000000000
+      internalID: 7047028129357695985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 355
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237602a2e554aab0800000000000000
+      internalID: -4997775254605106388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 355
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2315077620dc4e850800000000000000
+      internalID: 6405469980236730674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 355
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f11f531e108fc0800000000000000
+      internalID: -3494760242291279463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c95bad346894b0800000000000000
+      internalID: -5433482734391932607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 23
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0f5aaf90ed63e0800000000000000
+      internalID: -2058742478275671140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 23
+        width: 306
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f6aaf92fe07a50800000000000000
+      internalID: 6516971624383049855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IconsAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 23
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb14130213bdda10800000000000000
+      internalID: 1935900304781614017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4be6c3d210530e7459f9d213f353d717
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_IconsAtlas_0: -3811175490656511924
+      UI_IconsAtlas_1: 338591016219710090
+      UI_IconsAtlas_10: 7170377718551881403
+      UI_IconsAtlas_11: 6405469980236730674
+      UI_IconsAtlas_12: -3494760242291279463
+      UI_IconsAtlas_13: -5433482734391932607
+      UI_IconsAtlas_14: -8692238367322214845
+      UI_IconsAtlas_15: -2058742478275671140
+      UI_IconsAtlas_16: 6516971624383049855
+      UI_IconsAtlas_17: 1935900304781614017
+      UI_IconsAtlas_18: 7019060123790087797
+      UI_IconsAtlas_19: 3262476187004152804
+      UI_IconsAtlas_2: 7126884551594223619
+      UI_IconsAtlas_20: 5466547312767832445
+      UI_IconsAtlas_3: 1433318246892214887
+      UI_IconsAtlas_4: -125957803867022076
+      UI_IconsAtlas_5: 6372401637243505231
+      UI_IconsAtlas_6: -8846967661838664350
+      UI_IconsAtlas_7: 512793641919193326
+      UI_IconsAtlas_8: 7047028129357695985
+      UI_IconsAtlas_9: -4997775254605106388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

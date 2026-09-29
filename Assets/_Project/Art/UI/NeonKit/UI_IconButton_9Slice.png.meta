@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: a8c54896b4bb0194daddde6241714238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4690521605201548471
+    second: UI_IconButton_9Slice_0
+  - first:
+      213: 6146883022957728031
+    second: UI_IconButton_9Slice_1
+  - first:
+      213: 4624021487795103834
+    second: UI_IconButton_9Slice_2
+  - first:
+      213: -608799336072630358
+    second: UI_IconButton_9Slice_3
+  - first:
+      213: 564581722861025409
+    second: UI_IconButton_9Slice_4
+  - first:
+      213: -1268255394293007430
+    second: UI_IconButton_9Slice_5
+  - first:
+      213: 7224379245153011962
+    second: UI_IconButton_9Slice_6
+  - first:
+      213: -6832510325622726152
+    second: UI_IconButton_9Slice_7
+  - first:
+      213: -4600878424523077895
+    second: UI_IconButton_9Slice_8
+  - first:
+      213: -4148867778045495526
+    second: UI_IconButton_9Slice_9
+  - first:
+      213: -7447233012474149289
+    second: UI_IconButton_9Slice_10
+  - first:
+      213: 3951795574178289920
+    second: UI_IconButton_9Slice_11
+  - first:
+      213: 2275560181716859322
+    second: UI_IconButton_9Slice_12
+  - first:
+      213: 1177867661351670329
+    second: UI_IconButton_9Slice_13
+  - first:
+      213: -8813624918475831217
+    second: UI_IconButton_9Slice_14
+  - first:
+      213: 7087388923525043578
+    second: UI_IconButton_9Slice_15
+  - first:
+      213: 8012848712127212640
+    second: UI_IconButton_9Slice_16
+  - first:
+      213: -8515163081094458015
+    second: UI_IconButton_9Slice_17
+  - first:
+      213: -4809236633605752944
+    second: UI_IconButton_9Slice_18
+  - first:
+      213: 417525958755500773
+    second: UI_IconButton_9Slice_19
+  - first:
+      213: -7559381776326945933
+    second: UI_IconButton_9Slice_20
+  - first:
+      213: 2591716622285833014
+    second: UI_IconButton_9Slice_21
+  - first:
+      213: -4087434735907549474
+    second: UI_IconButton_9Slice_22
+  - first:
+      213: 7381884332422644529
+    second: UI_IconButton_9Slice_23
+  - first:
+      213: 6587797567634912491
+    second: UI_IconButton_9Slice_24
+  - first:
+      213: -2303868103736491202
+    second: UI_IconButton_9Slice_25
+  - first:
+      213: -4308431906112699394
+    second: UI_IconButton_9Slice_26
+  - first:
+      213: -5351049891764685664
+    second: UI_IconButton_9Slice_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_IconButton_9Slice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b455596c84181140800000000000000
+      internalID: 4690521605201548471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85a793b5bd1eb1e408021f0b4a4a6dbe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_IconButton_9Slice_0: 4690521605201548471
+      UI_IconButton_9Slice_1: 6146883022957728031
+      UI_IconButton_9Slice_10: -7447233012474149289
+      UI_IconButton_9Slice_11: 3951795574178289920
+      UI_IconButton_9Slice_12: 2275560181716859322
+      UI_IconButton_9Slice_13: 1177867661351670329
+      UI_IconButton_9Slice_14: -8813624918475831217
+      UI_IconButton_9Slice_15: 7087388923525043578
+      UI_IconButton_9Slice_16: 8012848712127212640
+      UI_IconButton_9Slice_17: -8515163081094458015
+      UI_IconButton_9Slice_18: -4809236633605752944
+      UI_IconButton_9Slice_19: 417525958755500773
+      UI_IconButton_9Slice_2: 4624021487795103834
+      UI_IconButton_9Slice_20: -7559381776326945933
+      UI_IconButton_9Slice_21: 2591716622285833014
+      UI_IconButton_9Slice_22: -4087434735907549474
+      UI_IconButton_9Slice_23: 7381884332422644529
+      UI_IconButton_9Slice_24: 6587797567634912491
+      UI_IconButton_9Slice_25: -2303868103736491202
+      UI_IconButton_9Slice_26: -4308431906112699394
+      UI_IconButton_9Slice_27: -5351049891764685664
+      UI_IconButton_9Slice_3: -608799336072630358
+      UI_IconButton_9Slice_4: 564581722861025409
+      UI_IconButton_9Slice_5: -1268255394293007430
+      UI_IconButton_9Slice_6: 7224379245153011962
+      UI_IconButton_9Slice_7: -6832510325622726152
+      UI_IconButton_9Slice_8: -4600878424523077895
+      UI_IconButton_9Slice_9: -4148867778045495526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

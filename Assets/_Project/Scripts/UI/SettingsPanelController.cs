@@ -6,6 +6,8 @@ namespace SpaceInvaders.UI
 {
     public sealed class SettingsPanelController : MonoBehaviour
     {
+        private const string VkCommunityUrl = "https://vk.ru/asteriagames";
+
         [Header("Volume")]
         [SerializeField] private Slider _musicSlider;
         [SerializeField] private Slider _sfxSlider;
@@ -36,6 +38,11 @@ namespace SpaceInvaders.UI
         public void Close()
         {
             gameObject.SetActive(false);
+        }
+
+        public void OpenVkCommunity()
+        {
+            Application.OpenURL(VkCommunityUrl);
         }
 
         private void OnMusicVolumeChanged(float volume)

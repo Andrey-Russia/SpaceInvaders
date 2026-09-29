@@ -1,0 +1,1574 @@
+fileFormatVersion: 2
+guid: 01f5c2842dcc30840aed1244869124f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1148081869681732955
+    second: alternate_space_invaders_sprite_sheet_0
+  - first:
+      213: -7032001559643351529
+    second: alternate_space_invaders_sprite_sheet_1
+  - first:
+      213: -6137489117528824578
+    second: alternate_space_invaders_sprite_sheet_2
+  - first:
+      213: -4995761322342539145
+    second: alternate_space_invaders_sprite_sheet_3
+  - first:
+      213: 2532149819727659866
+    second: alternate_space_invaders_sprite_sheet_4
+  - first:
+      213: 1428822521727988021
+    second: alternate_space_invaders_sprite_sheet_5
+  - first:
+      213: 419419925096060422
+    second: alternate_space_invaders_sprite_sheet_6
+  - first:
+      213: 5280925620449803588
+    second: alternate_space_invaders_sprite_sheet_7
+  - first:
+      213: -7873873224725021875
+    second: alternate_space_invaders_sprite_sheet_8
+  - first:
+      213: -8888941591812859603
+    second: alternate_space_invaders_sprite_sheet_9
+  - first:
+      213: 3281799780892451210
+    second: alternate_space_invaders_sprite_sheet_10
+  - first:
+      213: 4195834080801697552
+    second: alternate_space_invaders_sprite_sheet_11
+  - first:
+      213: -2465087469630481836
+    second: alternate_space_invaders_sprite_sheet_12
+  - first:
+      213: 1693840439880220127
+    second: alternate_space_invaders_sprite_sheet_13
+  - first:
+      213: 2437695134328542274
+    second: alternate_space_invaders_sprite_sheet_14
+  - first:
+      213: -5530118856279404063
+    second: alternate_space_invaders_sprite_sheet_15
+  - first:
+      213: 5986893873638721927
+    second: alternate_space_invaders_sprite_sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d227fa06eceef00800000000000000
+      internalID: 1148081869681732955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161771b6df496e90800000000000000
+      internalID: -7032001559643351529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef46ed85a2243daa0800000000000000
+      internalID: -6137489117528824578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 100
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7702327cb8d7baab0800000000000000
+      internalID: -4995761322342539145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cfea58d0042320800000000000000
+      internalID: 2532149819727659866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531bca6638234d310800000000000000
+      internalID: 1428822521727988021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606521f133412d500800000000000000
+      internalID: 419419925096060422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d7b2c4fdd994940800000000000000
+      internalID: 5280925620449803588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3ec905026ab290800000000000000
+      internalID: -7873873224725021875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d299cc6c7b224a480800000000000000
+      internalID: -8888941591812859603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ac04538b4b8d20800000000000000
+      internalID: 3281799780892451210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa9a2bdd89a3a30800000000000000
+      internalID: 4195834080801697552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9868c1004acdd0800000000000000
+      internalID: -2465087469630481836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd704dd7eab18710800000000000000
+      internalID: 1693840439880220127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d9582fce64d120800000000000000
+      internalID: 2437695134328542274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d6c533321143b0800000000000000
+      internalID: -5530118856279404063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789c2361248b51350800000000000000
+      internalID: 5986893873638721927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987a5cdcf0002b40b314097f10a76cd
+      internalID: -2002695262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab610af39c48d41a602aad5b1c1c1b
+      internalID: 283082611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50061d788f269154aaf3249fe5a3db85
+      internalID: 1857787229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de27196c3b8b04409c6b045586bd818
+      internalID: 1670690705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9592cf48f6df84488da2e760aa31254
+      internalID: 853711841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a9a1b2ff76984897059150751ef65
+      internalID: -463020252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48964444dc46b9e40a4e9244cdd592ca
+      internalID: -1692360163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4b0b6d2d14144db194895379f6e7b
+      internalID: 411179862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d49d7e65c14224b86244de5cbde5f0
+      internalID: -428570602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041164dd438843442af2259a7d5ab858
+      internalID: 300021081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931b9d6dacaab646b399b5504df4610
+      internalID: 870973499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173fc9c02a2d85d4193399d4d658bb54
+      internalID: -134906505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db4506bc8abf347a856075a19ac5d5
+      internalID: 1480844541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef38d8e6dd3f0ba41956646cf31386b6
+      internalID: 1724439849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba0a5c661e48840b4b14ea4c54833d
+      internalID: 63703467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522a0e4a7a99c9428f66f40c9a90200
+      internalID: 1186095573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeb9059288b1d94b9b64b83ec22413d
+      internalID: 1304327764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffeb903ce4840d43a41a884b22e8dc8
+      internalID: -1367699527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af55684a5a4b649a3065d8f45e3643
+      internalID: 51480743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89858998a6290314fb75940c395507b3
+      internalID: -475225086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c55673021c8740abb3b66a15f201e
+      internalID: 1694972796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f38f04e868454a998c4ae9c5ca2e0
+      internalID: -1751054156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b122da1ad651204dadcd37afc37d47c
+      internalID: 1593286276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 33
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d735f151baa1914b823d02aa222aac4
+      internalID: -393192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad9a4833d9dec4085631a3bdb5f5bc
+      internalID: 917366024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 43
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58b922ccbc4df4f8fddaeee3b4cb43
+      internalID: -723570308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8404c0fe5820f41ae4b5db0b487c88
+      internalID: 36323474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774d72f8c422364396b213777494de2
+      internalID: -1254220866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8674b0556e54441944c0650b6db5f3
+      internalID: -890631170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304a9511b64546148a365c552b9b25a3
+      internalID: -983514922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd940a8e8f5d042a6602c8a81b4cd0
+      internalID: -597318058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680af2c4f6784e14983f64436104860e
+      internalID: -1729953342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad5fc8764722d41b2a25f665cea616
+      internalID: 1105225617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310d3774d0b9fb48ad86134ebac86f2
+      internalID: 1853701572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37b6b6bc8240341bc9d4e11b8cc856
+      internalID: -1785680715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff6e75865233b4593a967181d90c7c
+      internalID: 2023965138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9552830aa9dae14e9a31afe393c36b7
+      internalID: 1911658051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876ed2a5b5567a4296bfbf3ec32ab13
+      internalID: 1330431475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9bef6e63d6a3c4993d1c553f0fbec5
+      internalID: 1807608807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b8fe9b597dc2458b6505081b6049b
+      internalID: -895963415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f5ff8085ef6146b8d52256afc24cf
+      internalID: 1049643944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e8295ae8d53146b99e58e5dd2fff7
+      internalID: -395226457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternate_space_invaders_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b51f9aa9460449b6dbf078a904d28
+      internalID: -103260035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5c8762c9f601ed49a5c93239ea8d1cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alternate_space_invaders_sprite_sheet_0: 1148081869681732955
+      alternate_space_invaders_sprite_sheet_1: -7032001559643351529
+      alternate_space_invaders_sprite_sheet_10: 3281799780892451210
+      alternate_space_invaders_sprite_sheet_11: 4195834080801697552
+      alternate_space_invaders_sprite_sheet_12: -2465087469630481836
+      alternate_space_invaders_sprite_sheet_13: 1693840439880220127
+      alternate_space_invaders_sprite_sheet_14: 2437695134328542274
+      alternate_space_invaders_sprite_sheet_15: -5530118856279404063
+      alternate_space_invaders_sprite_sheet_16: 5986893873638721927
+      alternate_space_invaders_sprite_sheet_17: -2002695262
+      alternate_space_invaders_sprite_sheet_18: 283082611
+      alternate_space_invaders_sprite_sheet_19: 1857787229
+      alternate_space_invaders_sprite_sheet_2: -6137489117528824578
+      alternate_space_invaders_sprite_sheet_20: 1670690705
+      alternate_space_invaders_sprite_sheet_21: 853711841
+      alternate_space_invaders_sprite_sheet_22: -463020252
+      alternate_space_invaders_sprite_sheet_23: -1692360163
+      alternate_space_invaders_sprite_sheet_24: 411179862
+      alternate_space_invaders_sprite_sheet_25: -428570602
+      alternate_space_invaders_sprite_sheet_26: 300021081
+      alternate_space_invaders_sprite_sheet_27: 870973499
+      alternate_space_invaders_sprite_sheet_28: -134906505
+      alternate_space_invaders_sprite_sheet_29: 1480844541
+      alternate_space_invaders_sprite_sheet_3: -4995761322342539145
+      alternate_space_invaders_sprite_sheet_30: 1724439849
+      alternate_space_invaders_sprite_sheet_31: 63703467
+      alternate_space_invaders_sprite_sheet_32: 1186095573
+      alternate_space_invaders_sprite_sheet_33: 1304327764
+      alternate_space_invaders_sprite_sheet_34: -1367699527
+      alternate_space_invaders_sprite_sheet_35: 51480743
+      alternate_space_invaders_sprite_sheet_36: -475225086
+      alternate_space_invaders_sprite_sheet_37: 1694972796
+      alternate_space_invaders_sprite_sheet_38: -1751054156
+      alternate_space_invaders_sprite_sheet_39: 1593286276
+      alternate_space_invaders_sprite_sheet_4: 2532149819727659866
+      alternate_space_invaders_sprite_sheet_40: -393192891
+      alternate_space_invaders_sprite_sheet_41: 917366024
+      alternate_space_invaders_sprite_sheet_42: -723570308
+      alternate_space_invaders_sprite_sheet_43: 36323474
+      alternate_space_invaders_sprite_sheet_44: -1254220866
+      alternate_space_invaders_sprite_sheet_45: -890631170
+      alternate_space_invaders_sprite_sheet_46: -983514922
+      alternate_space_invaders_sprite_sheet_47: -597318058
+      alternate_space_invaders_sprite_sheet_48: -1729953342
+      alternate_space_invaders_sprite_sheet_49: 1105225617
+      alternate_space_invaders_sprite_sheet_5: 1428822521727988021
+      alternate_space_invaders_sprite_sheet_50: 1853701572
+      alternate_space_invaders_sprite_sheet_51: -1785680715
+      alternate_space_invaders_sprite_sheet_52: 2023965138
+      alternate_space_invaders_sprite_sheet_53: 1911658051
+      alternate_space_invaders_sprite_sheet_54: 1330431475
+      alternate_space_invaders_sprite_sheet_55: 1807608807
+      alternate_space_invaders_sprite_sheet_56: -895963415
+      alternate_space_invaders_sprite_sheet_57: 1049643944
+      alternate_space_invaders_sprite_sheet_58: -395226457
+      alternate_space_invaders_sprite_sheet_59: -103260035
+      alternate_space_invaders_sprite_sheet_6: 419419925096060422
+      alternate_space_invaders_sprite_sheet_7: 5280925620449803588
+      alternate_space_invaders_sprite_sheet_8: -7873873224725021875
+      alternate_space_invaders_sprite_sheet_9: -8888941591812859603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

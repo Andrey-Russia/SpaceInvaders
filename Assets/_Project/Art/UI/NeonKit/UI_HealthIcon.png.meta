@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 37be5fb2f8498b44bab821e865b9fa09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3283255644661718599
+    second: UI_HealthIcon_0
+  - first:
+      213: -8598750338388107484
+    second: UI_HealthIcon_1
+  - first:
+      213: -9089534448785705338
+    second: UI_HealthIcon_2
+  - first:
+      213: 5558246793726566193
+    second: UI_HealthIcon_3
+  - first:
+      213: 1029732106226792801
+    second: UI_HealthIcon_4
+  - first:
+      213: 1330043622711863403
+    second: UI_HealthIcon_5
+  - first:
+      213: 6261560727262911249
+    second: UI_HealthIcon_6
+  - first:
+      213: -3058414545737986321
+    second: UI_HealthIcon_7
+  - first:
+      213: -6973722476759266427
+    second: UI_HealthIcon_8
+  - first:
+      213: -2903289214694296222
+    second: UI_HealthIcon_9
+  - first:
+      213: 3747331695249316658
+    second: UI_HealthIcon_10
+  - first:
+      213: 7570930022345515063
+    second: UI_HealthIcon_11
+  - first:
+      213: 7502323546807674703
+    second: UI_HealthIcon_12
+  - first:
+      213: 1455146603109155703
+    second: UI_HealthIcon_13
+  - first:
+      213: 6004431017736860302
+    second: UI_HealthIcon_14
+  - first:
+      213: 4261873177573635913
+    second: UI_HealthIcon_15
+  - first:
+      213: 2300263511179009447
+    second: UI_HealthIcon_16
+  - first:
+      213: 2362060072808451296
+    second: UI_HealthIcon_17
+  - first:
+      213: 3894150984441294010
+    second: UI_HealthIcon_18
+  - first:
+      213: -8115497040651982636
+    second: UI_HealthIcon_19
+  - first:
+      213: 6955692725090086519
+    second: UI_HealthIcon_20
+  - first:
+      213: 2483240683991854866
+    second: UI_HealthIcon_21
+  - first:
+      213: -3907660761051394984
+    second: UI_HealthIcon_22
+  - first:
+      213: -9017205158847689888
+    second: UI_HealthIcon_23
+  - first:
+      213: -1012628218481305266
+    second: UI_HealthIcon_24
+  - first:
+      213: -5487954067157146978
+    second: UI_HealthIcon_25
+  - first:
+      213: 627213916801652104
+    second: UI_HealthIcon_26
+  - first:
+      213: 2970456818988477724
+    second: UI_HealthIcon_27
+  - first:
+      213: -378614350378642649
+    second: UI_HealthIcon_28
+  - first:
+      213: 5154608476860359481
+    second: UI_HealthIcon_29
+  - first:
+      213: -3333133080959319253
+    second: UI_HealthIcon_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_HealthIcon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1374
+        height: 1145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bda086e4885e650800000000000000
+      internalID: 6261560727262911249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d87902c7ccdbda3438888760edfb4e63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_HealthIcon_0: 3283255644661718599
+      UI_HealthIcon_1: -8598750338388107484
+      UI_HealthIcon_10: 3747331695249316658
+      UI_HealthIcon_11: 7570930022345515063
+      UI_HealthIcon_12: 7502323546807674703
+      UI_HealthIcon_13: 1455146603109155703
+      UI_HealthIcon_14: 6004431017736860302
+      UI_HealthIcon_15: 4261873177573635913
+      UI_HealthIcon_16: 2300263511179009447
+      UI_HealthIcon_17: 2362060072808451296
+      UI_HealthIcon_18: 3894150984441294010
+      UI_HealthIcon_19: -8115497040651982636
+      UI_HealthIcon_2: -9089534448785705338
+      UI_HealthIcon_20: 6955692725090086519
+      UI_HealthIcon_21: 2483240683991854866
+      UI_HealthIcon_22: -3907660761051394984
+      UI_HealthIcon_23: -9017205158847689888
+      UI_HealthIcon_24: -1012628218481305266
+      UI_HealthIcon_25: -5487954067157146978
+      UI_HealthIcon_26: 627213916801652104
+      UI_HealthIcon_27: 2970456818988477724
+      UI_HealthIcon_28: -378614350378642649
+      UI_HealthIcon_29: 5154608476860359481
+      UI_HealthIcon_3: 5558246793726566193
+      UI_HealthIcon_30: -3333133080959319253
+      UI_HealthIcon_4: 1029732106226792801
+      UI_HealthIcon_5: 1330043622711863403
+      UI_HealthIcon_6: 6261560727262911249
+      UI_HealthIcon_7: -3058414545737986321
+      UI_HealthIcon_8: -6973722476759266427
+      UI_HealthIcon_9: -2903289214694296222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

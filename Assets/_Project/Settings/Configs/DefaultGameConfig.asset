@@ -18,10 +18,11 @@ MonoBehaviour:
   _playerProjectileSpeed: 12
   _enemyHealth: 1
   _enemyScoreReward: 100
-  _formationRows: 4
-  _formationColumns: 8
+  _formationRows: 3
+  _formationColumns: 5
   _formationSpacing: {x: 1.3, y: 0.9}
-  _formationStartPosition: {x: -4.5, y: 3.5}
+  _formationStartPosition: {x: 0, y: 3.5}
+  _formationScreenPadding: 0.4
   _formationDescentInterval: 3
   _formationDescentStep: 0.35
   _defeatLineY: -3.5

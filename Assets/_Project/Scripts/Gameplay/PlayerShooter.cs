@@ -1,3 +1,4 @@
+using System;
 using SpaceInvaders.Gameplay.Configuration;
 using SpaceInvaders.Gameplay.Input;
 using SpaceInvaders.Gameplay.Projectiles;
@@ -8,6 +9,8 @@ namespace SpaceInvaders.Gameplay.Player
     public sealed class PlayerShooter : MonoBehaviour
     {
         [SerializeField] private Transform _firePoint;
+
+        public event Action ShotFired;
 
         private GameConfig _config;
         private IPlayerInput _input;
@@ -41,6 +44,7 @@ namespace SpaceInvaders.Gameplay.Player
         private void Shoot()
         {
             _projectilePool.Spawn(_firePoint.position, _config.PlayerProjectileSpeed);
+            ShotFired?.Invoke();
 
             _cooldown = _config.PlayerFireCooldown;
         }

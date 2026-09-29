@@ -2,12 +2,16 @@ using System;
 using SpaceInvaders.Gameplay.Combat;
 using SpaceInvaders.Gameplay.Scoring;
 using UnityEngine;
+using SpaceInvaders.Gameplay.Effects;
 
 namespace SpaceInvaders.Gameplay.Enemies
 {
     [RequireComponent(typeof(Collider2D))]
     public sealed class EnemyController : MonoBehaviour, IDamageable
     {
+        [SerializeField] private Transform _firePoint;
+        [SerializeField] private EnemyExplosion _explosionPrefab;
+
         private ScoreService _scoreService;
         private Action<EnemyController> _deathCallback;
 
@@ -15,6 +19,9 @@ namespace SpaceInvaders.Gameplay.Enemies
         private int _scoreReward;
         private bool _isDead;
 
+        public event Action Damaged;
+
+        public Vector3 FirePosition => _firePoint != null ? _firePoint.position : transform.position;
         public void Initialize(int health, int scoreReward, ScoreService scoreService, Action<EnemyController> deathCallback)
         {
             _health = health;
@@ -36,7 +43,10 @@ namespace SpaceInvaders.Gameplay.Enemies
             if (_health <= 0)
             {
                 Die();
+                return;
             }
+
+            Damaged?.Invoke();
         }
 
         private void Die()
@@ -44,6 +54,12 @@ namespace SpaceInvaders.Gameplay.Enemies
             _isDead = true;
 
             _scoreService.AddScore(_scoreReward);
+            
+            if (_explosionPrefab != null)
+            {
+                Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
+            }
+
             _deathCallback?.Invoke(this);
 
             Destroy(gameObject);

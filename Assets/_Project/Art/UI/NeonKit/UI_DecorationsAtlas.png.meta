@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 10fb5740d9d6d8d4f8ab52d4916165a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6183108025220944285
+    second: UI_DecorationsAtlas_0
+  - first:
+      213: 5345686585229683874
+    second: UI_DecorationsAtlas_1
+  - first:
+      213: 3052191993999860341
+    second: UI_DecorationsAtlas_2
+  - first:
+      213: -4038982801348667845
+    second: UI_DecorationsAtlas_3
+  - first:
+      213: -1203888622519574511
+    second: UI_DecorationsAtlas_4
+  - first:
+      213: 6220681243513449527
+    second: UI_DecorationsAtlas_5
+  - first:
+      213: -7409995214810959773
+    second: UI_DecorationsAtlas_6
+  - first:
+      213: -1658762544659620369
+    second: UI_DecorationsAtlas_7
+  - first:
+      213: 2987256971784438507
+    second: UI_DecorationsAtlas_8
+  - first:
+      213: 4377028165378140097
+    second: UI_DecorationsAtlas_9
+  - first:
+      213: 3685534416306080234
+    second: UI_DecorationsAtlas_10
+  - first:
+      213: -7810136937651093794
+    second: UI_DecorationsAtlas_11
+  - first:
+      213: 3254261493496653990
+    second: UI_DecorationsAtlas_12
+  - first:
+      213: -1486674721581047539
+    second: UI_DecorationsAtlas_13
+  - first:
+      213: 7617159630244530434
+    second: UI_DecorationsAtlas_14
+  - first:
+      213: 5798999696138559033
+    second: UI_DecorationsAtlas_15
+  - first:
+      213: -4016071291727595792
+    second: UI_DecorationsAtlas_16
+  - first:
+      213: 976417137898837928
+    second: UI_DecorationsAtlas_17
+  - first:
+      213: -3395893719013174935
+    second: UI_DecorationsAtlas_18
+  - first:
+      213: 2485512771072498063
+    second: UI_DecorationsAtlas_19
+  - first:
+      213: 8445262376691544438
+    second: UI_DecorationsAtlas_20
+  - first:
+      213: 261690144485962966
+    second: UI_DecorationsAtlas_21
+  - first:
+      213: 349339430792112451
+    second: UI_DecorationsAtlas_22
+  - first:
+      213: -5499673426305582787
+    second: UI_DecorationsAtlas_23
+  - first:
+      213: 6431631568139629402
+    second: UI_DecorationsAtlas_24
+  - first:
+      213: -7785701247669020321
+    second: UI_DecorationsAtlas_25
+  - first:
+      213: 5081216246530505210
+    second: UI_DecorationsAtlas_26
+  - first:
+      213: -4205778650120674768
+    second: UI_DecorationsAtlas_27
+  - first:
+      213: 2643192223890874159
+    second: UI_DecorationsAtlas_28
+  - first:
+      213: -5340834014471725598
+    second: UI_DecorationsAtlas_29
+  - first:
+      213: -2175212040195100927
+    second: UI_DecorationsAtlas_30
+  - first:
+      213: 3232865724077715841
+    second: UI_DecorationsAtlas_31
+  - first:
+      213: 1207943184224458910
+    second: UI_DecorationsAtlas_32
+  - first:
+      213: -604174280419650963
+    second: UI_DecorationsAtlas_33
+  - first:
+      213: -4215703192246145920
+    second: UI_DecorationsAtlas_34
+  - first:
+      213: -857906709470614521
+    second: UI_DecorationsAtlas_35
+  - first:
+      213: 7161466612261260932
+    second: UI_DecorationsAtlas_36
+  - first:
+      213: -6105939586702912477
+    second: UI_DecorationsAtlas_37
+  - first:
+      213: -7382118292742484915
+    second: UI_DecorationsAtlas_38
+  - first:
+      213: 4661173958529610580
+    second: UI_DecorationsAtlas_39
+  - first:
+      213: 442826963032918197
+    second: UI_DecorationsAtlas_40
+  - first:
+      213: -4406404806651531367
+    second: UI_DecorationsAtlas_41
+  - first:
+      213: -3345677977419779333
+    second: UI_DecorationsAtlas_42
+  - first:
+      213: -6627189894080712810
+    second: UI_DecorationsAtlas_43
+  - first:
+      213: -2183656390112260102
+    second: UI_DecorationsAtlas_44
+  - first:
+      213: 6785742486881217501
+    second: UI_DecorationsAtlas_45
+  - first:
+      213: 1425552955613931809
+    second: UI_DecorationsAtlas_46
+  - first:
+      213: 8263019891039445477
+    second: UI_DecorationsAtlas_47
+  - first:
+      213: -297771741843377509
+    second: UI_DecorationsAtlas_48
+  - first:
+      213: 866374159788432482
+    second: UI_DecorationsAtlas_49
+  - first:
+      213: -3486232520414400963
+    second: UI_DecorationsAtlas_50
+  - first:
+      213: -7244963065294920976
+    second: UI_DecorationsAtlas_51
+  - first:
+      213: -8212495570704990351
+    second: UI_DecorationsAtlas_52
+  - first:
+      213: 3823722507429905310
+    second: UI_DecorationsAtlas_53
+  - first:
+      213: 1613069148022425048
+    second: UI_DecorationsAtlas_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 95
+        width: 323
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea6d4b200313aa0800000000000000
+      internalID: -6183108025220944285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 758
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acaf2960a1bf2a40800000000000000
+      internalID: 5345686585229683874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 726
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57227a482709b5a20800000000000000
+      internalID: 3052191993999860341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 539
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3653b7aa86a2f7c0800000000000000
+      internalID: -4038982801348667845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 536
+        width: 496
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11026912dadea4fe0800000000000000
+      internalID: -1203888622519574511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 476
+        width: 615
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36039d9ac986a2990800000000000000
+      internalID: -7409995214810959773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 829
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be24500836ed47920800000000000000
+      internalID: 2987256971784438507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 567
+        width: 279
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c76e390de35ebc30800000000000000
+      internalID: 4377028165378140097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 895
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9866b5606a52330800000000000000
+      internalID: 3685534416306080234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 844
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93edfeccf7f2a7050800000000000000
+      internalID: 5798999696138559033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 808
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75011b63eec8d00800000000000000
+      internalID: 976417137898837928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 617
+        width: 205
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89197c42b05e7220800000000000000
+      internalID: 2485512771072498063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 653
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bbadf269933570800000000000000
+      internalID: 8445262376691544438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 590
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d47e47ccc5b1a300800000000000000
+      internalID: 261690144485962966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 576
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a6668c5a19d400800000000000000
+      internalID: 349339430792112451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 60
+        width: 485
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd613c2cb81e5b0800000000000000
+      internalID: -5340834014471725598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 275
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18130326f327ddc20800000000000000
+      internalID: 3232865724077715841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 339
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989d841de973c010800000000000000
+      internalID: 1207943184224458910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 132
+        width: 197
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c20bb4840de75c0800000000000000
+      internalID: -4215703192246145920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 242
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ca84d6cc352600800000000000000
+      internalID: 442826963032918197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 246
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f26faac2e49d2c0800000000000000
+      internalID: -4406404806651531367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 195
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2fb0f0b93c191d0800000000000000
+      internalID: -3345677977419779333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 142
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fa24857ed7704a0800000000000000
+      internalID: -6627189894080712810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 127
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba4d3e6dccb2e50800000000000000
+      internalID: 6785742486881217501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 113
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12960e73cd498c310800000000000000
+      internalID: 1425552955613931809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DecorationsAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 98
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a461cfc42ca270800000000000000
+      internalID: 8263019891039445477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9736694621fc53d419eb4dbab5fa6d01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_DecorationsAtlas_0: -6183108025220944285
+      UI_DecorationsAtlas_1: 5345686585229683874
+      UI_DecorationsAtlas_10: 3685534416306080234
+      UI_DecorationsAtlas_11: -7810136937651093794
+      UI_DecorationsAtlas_12: 3254261493496653990
+      UI_DecorationsAtlas_13: -1486674721581047539
+      UI_DecorationsAtlas_14: 7617159630244530434
+      UI_DecorationsAtlas_15: 5798999696138559033
+      UI_DecorationsAtlas_16: -4016071291727595792
+      UI_DecorationsAtlas_17: 976417137898837928
+      UI_DecorationsAtlas_18: -3395893719013174935
+      UI_DecorationsAtlas_19: 2485512771072498063
+      UI_DecorationsAtlas_2: 3052191993999860341
+      UI_DecorationsAtlas_20: 8445262376691544438
+      UI_DecorationsAtlas_21: 261690144485962966
+      UI_DecorationsAtlas_22: 349339430792112451
+      UI_DecorationsAtlas_23: -5499673426305582787
+      UI_DecorationsAtlas_24: 6431631568139629402
+      UI_DecorationsAtlas_25: -7785701247669020321
+      UI_DecorationsAtlas_26: 5081216246530505210
+      UI_DecorationsAtlas_27: -4205778650120674768
+      UI_DecorationsAtlas_28: 2643192223890874159
+      UI_DecorationsAtlas_29: -5340834014471725598
+      UI_DecorationsAtlas_3: -4038982801348667845
+      UI_DecorationsAtlas_30: -2175212040195100927
+      UI_DecorationsAtlas_31: 3232865724077715841
+      UI_DecorationsAtlas_32: 1207943184224458910
+      UI_DecorationsAtlas_33: -604174280419650963
+      UI_DecorationsAtlas_34: -4215703192246145920
+      UI_DecorationsAtlas_35: -857906709470614521
+      UI_DecorationsAtlas_36: 7161466612261260932
+      UI_DecorationsAtlas_37: -6105939586702912477
+      UI_DecorationsAtlas_38: -7382118292742484915
+      UI_DecorationsAtlas_39: 4661173958529610580
+      UI_DecorationsAtlas_4: -1203888622519574511
+      UI_DecorationsAtlas_40: 442826963032918197
+      UI_DecorationsAtlas_41: -4406404806651531367
+      UI_DecorationsAtlas_42: -3345677977419779333
+      UI_DecorationsAtlas_43: -6627189894080712810
+      UI_DecorationsAtlas_44: -2183656390112260102
+      UI_DecorationsAtlas_45: 6785742486881217501
+      UI_DecorationsAtlas_46: 1425552955613931809
+      UI_DecorationsAtlas_47: 8263019891039445477
+      UI_DecorationsAtlas_48: -297771741843377509
+      UI_DecorationsAtlas_49: 866374159788432482
+      UI_DecorationsAtlas_5: 6220681243513449527
+      UI_DecorationsAtlas_50: -3486232520414400963
+      UI_DecorationsAtlas_51: -7244963065294920976
+      UI_DecorationsAtlas_52: -8212495570704990351
+      UI_DecorationsAtlas_53: 3823722507429905310
+      UI_DecorationsAtlas_54: 1613069148022425048
+      UI_DecorationsAtlas_6: -7409995214810959773
+      UI_DecorationsAtlas_7: -1658762544659620369
+      UI_DecorationsAtlas_8: 2987256971784438507
+      UI_DecorationsAtlas_9: 4377028165378140097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,5 @@
 using SpaceInvaders.Core;
+using SpaceInvaders.Infrastructure.Audio;
 using UnityEngine;
 
 namespace SpaceInvaders.UI
@@ -10,6 +11,11 @@ namespace SpaceInvaders.UI
         private void Awake()
         {
             _settingsPanel.Close();
+        }
+
+        private void Start()
+        {
+            AudioManager.Instance?.PlayMenuMusic();
         }
 
         public void StartGame()

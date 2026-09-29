@@ -314,6 +314,50 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1545746893}
     m_Modifications:
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: defeat
+      value: 
+      objectReference: {fileID: 8300000, guid: 084f77902c26aaf43a2afd61901cff5b, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: uiClick
+      value: 
+      objectReference: {fileID: 8300000, guid: b48c105c50558d94ea3da655953fdda2, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: victory
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ff83b95fb533f54985e2cef9e638614, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: enemyShot
+      value: 
+      objectReference: {fileID: 8300000, guid: c5d6affe2dac4044a933eb11a95a3bf3, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: enemyStep
+      value: 
+      objectReference: {fileID: 8300000, guid: 8c6f93e9df125054d9dd67bbed4c7ec1, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: menuMusic
+      value: 
+      objectReference: {fileID: 8300000, guid: a53945977f46ab449996529249ae68d7, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: playerShot
+      value: 
+      objectReference: {fileID: 8300000, guid: ec3266b6d6a1010448faa1716730d70a, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: gameplayMusic
+      value: 
+      objectReference: {fileID: 8300000, guid: 1041405b80d94624b9dfca7de6664ca3, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: playerDamaged
+      value: 
+      objectReference: {fileID: 8300000, guid: 017a75774330f364ca4dcc639e38a519, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: projectileHit
+      value: 
+      objectReference: {fileID: 8300000, guid: 08e938c47af944941b1ada22602f2f79, type: 3}
+    - target: {fileID: 885705328058009226, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
+      propertyPath: enemyDestroyed
+      value: 
+      objectReference: {fileID: 8300000, guid: 7f6d9a32902ecd94ebf91ea54138c141, type: 3}
     - target: {fileID: 6289081524435822120, guid: 772b3b896d776e04ab785749ffcb3cb9, type: 3}
       propertyPath: m_Name
       value: AudioManager

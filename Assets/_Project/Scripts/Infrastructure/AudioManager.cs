@@ -13,6 +13,21 @@ namespace SpaceInvaders.Infrastructure.Audio
         [SerializeField] private AudioSource musicSource;
         [SerializeField] private AudioSource sfxSource;
 
+        [Header("Music")]
+        [SerializeField] private AudioClip menuMusic;
+        [SerializeField] private AudioClip gameplayMusic;
+
+        [Header("SFX")]
+        [SerializeField] private AudioClip uiClick;
+        [SerializeField] private AudioClip playerShot;
+        [SerializeField] private AudioClip enemyShot;
+        [SerializeField] private AudioClip projectileHit;
+        [SerializeField] private AudioClip enemyDestroyed;
+        [SerializeField] private AudioClip playerDamaged;
+        [SerializeField] private AudioClip enemyStep;
+        [SerializeField] private AudioClip victory;
+        [SerializeField] private AudioClip defeat;
+
         public float MusicVolume => musicSource.volume;
         public float SfxVolume => sfxSource.volume;
 
@@ -32,8 +47,18 @@ namespace SpaceInvaders.Infrastructure.Audio
 
         public void PlayMusic(AudioClip clip)
         {
-            if (clip == null || musicSource.clip == clip)
+            if (clip == null)
             {
+                return;
+            }
+
+            if (musicSource.clip == clip)
+            {
+                if (!musicSource.isPlaying)
+                {
+                    musicSource.Play();
+                }
+
                 return;
             }
 
@@ -54,6 +79,28 @@ namespace SpaceInvaders.Infrastructure.Audio
                 sfxSource.PlayOneShot(clip);
             }
         }
+
+        public void PlayMenuMusic() => PlayMusic(menuMusic);
+
+        public void PlayGameplayMusic() => PlayMusic(gameplayMusic);
+
+        public void PlayUiClick() => PlaySfx(uiClick);
+
+        public void PlayPlayerShot() => PlaySfx(playerShot);
+
+        public void PlayEnemyShot() => PlaySfx(enemyShot);
+
+        public void PlayProjectileHit() => PlaySfx(projectileHit);
+
+        public void PlayEnemyDestroyed() => PlaySfx(enemyDestroyed);
+
+        public void PlayPlayerDamaged() => PlaySfx(playerDamaged);
+
+        public void PlayEnemyStep() => PlaySfx(enemyStep);
+
+        public void PlayVictory() => PlaySfx(victory);
+
+        public void PlayDefeat() => PlaySfx(defeat);
 
         public void SetMusicVolume(float volume)
         {

@@ -41,6 +41,9 @@ namespace SpaceInvaders.Gameplay.Configuration
         [SerializeField]
         private Vector2 _formationStartPosition = new(-4.5f, 3.5f);
 
+        [SerializeField, Min(0f)]
+        private float _formationScreenPadding = 0.4f;
+
         [SerializeField, Min(0.1f)]
         private float _formationDescentInterval = 3f;
 
@@ -73,6 +76,7 @@ namespace SpaceInvaders.Gameplay.Configuration
         public int FormationColumns => _formationColumns;
         public Vector2 FormationSpacing => _formationSpacing;
         public Vector2 FormationStartPosition => _formationStartPosition;
+        public float FormationScreenPadding => _formationScreenPadding;
         public float FormationDescentInterval => _formationDescentInterval;
         public float FormationDescentStep => _formationDescentStep;
         public float DefeatLineY => _defeatLineY;
@@ -85,6 +89,7 @@ namespace SpaceInvaders.Gameplay.Configuration
         {
             _formationSpacing.x = Mathf.Max(0.1f, _formationSpacing.x);
             _formationSpacing.y = Mathf.Max(0.1f, _formationSpacing.y);
+            _formationScreenPadding = Mathf.Max(0f, _formationScreenPadding);
 
             _enemyShotMaxInterval = Mathf.Max(_enemyShotMinInterval, _enemyShotMaxInterval);
         }

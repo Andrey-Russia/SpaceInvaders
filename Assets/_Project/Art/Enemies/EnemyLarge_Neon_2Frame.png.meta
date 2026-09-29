@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 14699dbe91e69eb43825a40eb97bfc4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1256228790605267328
+    second: EnemyLarge_Neon_2Frame_0
+  - first:
+      213: 6320318526913797686
+    second: EnemyLarge_Neon_2Frame_1
+  - first:
+      213: 2287679867624119804
+    second: EnemyLarge_Neon_2Frame_2
+  - first:
+      213: -7479095133406829394
+    second: EnemyLarge_Neon_2Frame_3
+  - first:
+      213: 7460165124793447973
+    second: EnemyLarge_Neon_2Frame_4
+  - first:
+      213: 8913623826005597014
+    second: EnemyLarge_Neon_2Frame_5
+  - first:
+      213: -8859812393219753812
+    second: EnemyLarge_Neon_2Frame_6
+  - first:
+      213: 4783725509232706163
+    second: EnemyLarge_Neon_2Frame_7
+  - first:
+      213: -3087606992385238946
+    second: EnemyLarge_Neon_2Frame_8
+  - first:
+      213: 7506562052673079140
+    second: EnemyLarge_Neon_2Frame_9
+  - first:
+      213: 7465059332332983049
+    second: EnemyLarge_Neon_2Frame_10
+  - first:
+      213: 1904545159883297984
+    second: EnemyLarge_Neon_2Frame_11
+  - first:
+      213: -7660106389627027752
+    second: EnemyLarge_Neon_2Frame_12
+  - first:
+      213: -4259419349110330181
+    second: EnemyLarge_Neon_2Frame_13
+  - first:
+      213: -3649829651951800652
+    second: EnemyLarge_Neon_2Frame_14
+  - first:
+      213: 2275959476679257898
+    second: EnemyLarge_Neon_2Frame_15
+  - first:
+      213: -6939231153955895433
+    second: EnemyLarge_Neon_2Frame_16
+  - first:
+      213: 8607133714484002310
+    second: EnemyLarge_Neon_2Frame_17
+  - first:
+      213: -5437031072532679696
+    second: EnemyLarge_Neon_2Frame_18
+  - first:
+      213: 6706520641001751917
+    second: EnemyLarge_Neon_2Frame_19
+  - first:
+      213: -4645366023989772356
+    second: EnemyLarge_Neon_2Frame_20
+  - first:
+      213: -7432266942210729208
+    second: EnemyLarge_Neon_2Frame_21
+  - first:
+      213: 8765003685271365990
+    second: EnemyLarge_Neon_2Frame_22
+  - first:
+      213: 1638534402101989127
+    second: EnemyLarge_Neon_2Frame_23
+  - first:
+      213: -4219569539865130523
+    second: EnemyLarge_Neon_2Frame_24
+  - first:
+      213: -7470805292624914431
+    second: EnemyLarge_Neon_2Frame_25
+  - first:
+      213: 7274443245123840472
+    second: EnemyLarge_Neon_2Frame_26
+  - first:
+      213: -7190901073878817937
+    second: EnemyLarge_Neon_2Frame_27
+  - first:
+      213: 3578989219630113215
+    second: EnemyLarge_Neon_2Frame_28
+  - first:
+      213: 1798004019360066965
+    second: EnemyLarge_Neon_2Frame_29
+  - first:
+      213: 7491944168003664536
+    second: EnemyLarge_Neon_2Frame_30
+  - first:
+      213: -4885434879670302864
+    second: EnemyLarge_Neon_2Frame_31
+  - first:
+      213: 4491536196902810342
+    second: EnemyLarge_Neon_2Frame_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyLarge_Neon_2Frame_4
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 900
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263215c7a4d78760800000000000000
+      internalID: 7460165124793447973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLarge_Neon_2Frame_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 874
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa6a2e515d59f10800000000000000
+      internalID: 2275959476679257898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff8ea0e3f60cbf94ca73ecc53f59797a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      EnemyLarge_Neon_2Frame_0: 1256228790605267328
+      EnemyLarge_Neon_2Frame_1: 6320318526913797686
+      EnemyLarge_Neon_2Frame_10: 7465059332332983049
+      EnemyLarge_Neon_2Frame_11: 1904545159883297984
+      EnemyLarge_Neon_2Frame_12: -7660106389627027752
+      EnemyLarge_Neon_2Frame_13: -4259419349110330181
+      EnemyLarge_Neon_2Frame_14: -3649829651951800652
+      EnemyLarge_Neon_2Frame_15: 2275959476679257898
+      EnemyLarge_Neon_2Frame_16: -6939231153955895433
+      EnemyLarge_Neon_2Frame_17: 8607133714484002310
+      EnemyLarge_Neon_2Frame_18: -5437031072532679696
+      EnemyLarge_Neon_2Frame_19: 6706520641001751917
+      EnemyLarge_Neon_2Frame_2: 2287679867624119804
+      EnemyLarge_Neon_2Frame_20: -4645366023989772356
+      EnemyLarge_Neon_2Frame_21: -7432266942210729208
+      EnemyLarge_Neon_2Frame_22: 8765003685271365990
+      EnemyLarge_Neon_2Frame_23: 1638534402101989127
+      EnemyLarge_Neon_2Frame_24: -4219569539865130523
+      EnemyLarge_Neon_2Frame_25: -7470805292624914431
+      EnemyLarge_Neon_2Frame_26: 7274443245123840472
+      EnemyLarge_Neon_2Frame_27: -7190901073878817937
+      EnemyLarge_Neon_2Frame_28: 3578989219630113215
+      EnemyLarge_Neon_2Frame_29: 1798004019360066965
+      EnemyLarge_Neon_2Frame_3: -7479095133406829394
+      EnemyLarge_Neon_2Frame_30: 7491944168003664536
+      EnemyLarge_Neon_2Frame_31: -4885434879670302864
+      EnemyLarge_Neon_2Frame_32: 4491536196902810342
+      EnemyLarge_Neon_2Frame_4: 7460165124793447973
+      EnemyLarge_Neon_2Frame_5: 8913623826005597014
+      EnemyLarge_Neon_2Frame_6: -8859812393219753812
+      EnemyLarge_Neon_2Frame_7: 4783725509232706163
+      EnemyLarge_Neon_2Frame_8: -3087606992385238946
+      EnemyLarge_Neon_2Frame_9: 7506562052673079140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
